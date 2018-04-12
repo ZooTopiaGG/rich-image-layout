@@ -1,0 +1,20 @@
+{
+  "name": "rich-image-layout",
+  "version": "1.0.1",
+  "description": "适用前端富文本单独设置图片样式的部分场景",
+  "keywords": [
+    "富文本图片宽度铺满屏幕", 
+    "富文本图片铺满屏幕" ,
+    "如何将富文本图片和文本样式分开",
+    "rich_image_layout",
+    "image_layout",
+    "image",
+    "layout"
+  ],
+  "main": "rich_image_layout.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dengpeng <1109142362@qq.com>",
+  "license": "MIT"
+}
